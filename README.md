@@ -1,4 +1,5 @@
 # Run non-web Java processes on Heroku
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 Some applications can benefit from splitting logic into multiple components:
 
