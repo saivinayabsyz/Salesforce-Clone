@@ -1,6 +1,6 @@
   {
-  "name": "Absyz ecommerce app",
-  "description": "A  Java app from the Absyz",
-   "addons": ["heroku-postgresql:hobby-dev", "papertrail"],
-     "success_url": "/index.html"
+  "name": "Salesforce Clone",
+  "description": "A  Java app from Vito Corleone",
+   "addons": ["heroku-postgresql:hobby-dev"],
+     "success_url": ""
   }
